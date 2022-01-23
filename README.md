@@ -10,3 +10,5 @@ You will need some sort of assemby compiler like NASM, something to run your sys
 * Run boot.sh
 
 thats it :>
+
+* Or you can go check out (https://replit.com/@TheDiamondKing/OS-V14?v=1)
