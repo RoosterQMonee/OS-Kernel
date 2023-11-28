@@ -1,14 +1,11 @@
-# Operating-System-V1
-A simple operating system I made :)
+# OS Kernel (v150 something)
 
-### What you will need
-
-You will need some sort of assemby compiler like NASM, something to run your system like QEMU, and xorriso
+I made a new kernel :)
 
 ### How to use
 
-* Run boot.sh
+Open on Replit (Files included), run build.sh (Linux), or convert build.sh to windows :)
 
-thats it :>
+### Notes:
 
-* Or you can go check out (https://replit.com/@TheDiamondKing/OS-V14?v=1)
+This may or may not work with other VMs like VMware or VBox. I have only recently tested the kernel on QEMU and have had some issues with multiboot previously.
